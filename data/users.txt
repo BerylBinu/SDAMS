@@ -1,0 +1,7 @@
+M0001|Siti Aminah|manager|admin123|siti@sda.com|0121112222|MANAGER
+A0001|Ali bin Abu|ali01|pass123|ali@sda.com|0123456789|ADMINISTRATOR
+A0002|Tan Mei Ling|meiling|pass123|meiling@sda.com|0167778888|ADMINISTRATOR
+I0001|Raj Kumar|raj|pass123|raj@sda.com|0193334444|INSTRUCTOR
+F0001|Lim Wei Jie|weijie|pass123|weijie@sda.com|0175556666|FACILITIES_OFFICER
+T0001|Nur Aisyah|aisyah|pass123|aisyah@sda.com|0189990000|ATTENDANCE_OFFICER
+S0001|John Lee|john|pass123|john@mail.com|0112223333|STUDENT
