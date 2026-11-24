@@ -8,7 +8,7 @@ Administrator	Krishna
 Instructor  Lanim	
 Student Manuel		
 Facilities Officer  Omar		
-Attendance Officer  Attendence		
+Attendance Officer  Krishna		
 Login screen Beryl		
 5 members, 6 roles → one person takes two roles. Fill this in together.
 
